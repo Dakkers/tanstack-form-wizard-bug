@@ -1,5 +1,7 @@
 # Bug with wizards (multi-step form) when using Tanstack Form
 
+Issue: https://github.com/TanStack/form/issues/2076
+
 To reproduce:
 
 1. `pnpm dev` to start the sever
